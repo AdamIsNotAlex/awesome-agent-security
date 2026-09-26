@@ -26,6 +26,7 @@ A curated list of resources, models, and tools for securing AI agents.
 ## Sandboxing and Runtime Security
 
 - [OpenShell](https://github.com/NVIDIA/OpenShell) — NVIDIA's open-source runtime for autonomous agents, providing sandboxed execution and declarative policies for filesystem, network, process, credential, and inference controls. ([Documentation](https://docs.nvidia.com/openshell/about/overview))
+- [Claw Patrol](https://github.com/denoland/clawpatrol) — An agent security gateway that inspects network traffic and applies HCL rules to block or require approval for actions against services such as databases and Kubernetes.
 
 ## Monitoring and Red Teaming
 
